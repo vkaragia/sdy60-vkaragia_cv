@@ -1,0 +1,57 @@
+---
+# Personal details
+name: "Vasileios Karagiannakis"
+address:
+- "Doksara 8"
+- "11143 Ano Patisia"
+- "Athens, Greece"
+phone: "+30 210 8322352"
+email: std153515@eap.ac.gr
+# Insert URLs without http://
+urls:
+- twitter.com/KaragiannakisV2
+
+# Sections
+
+intro: " You live and learn"
+
+skills:
+- National Security - Public Affairs
+- Leadership - Decision Making
+- Designing and Running Naval Exercises
+- Python Programming 
+
+experience:
+- years: 2021--2022
+  employer: "Hellenic Navy / HQ HELFLEET"
+  job: "Commanding Officer Gunboat HS MACHITIS"
+  city: "Salamis"
+- years: "2020–-2021"
+  employer: "Hellenic Navy / HQ HELFLEET" 
+  job: "Sea-Rider at Weapons Department"
+  city: "Salamis"
+- years: "2018--2020"
+  employer: "Hellenic Navy / HQ HELFLEET"
+  job: "Executive Officer Frigate HS Psara"
+  city: "Salamis"
+- years: "2001--2018"
+  employer: "Hellenic Navy / HQ HELFLEET"
+  job: "Head of Navigation, Weapons and Electronics at Frigates MEKO 200 HN"
+  city: "Salamis"
+  
+education:
+- year: 2011-2013
+  subject: "Computer Science"
+  institute: Naval Postgraduate School
+  city: Monterey, CA, USA
+- year: 1997-2001
+  subject: "Naval Science and Operational Studies"
+  institute: "Hellenic Navy Academy"
+  city: "Piraias"
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 10pt
+lang: en-GB
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+...
